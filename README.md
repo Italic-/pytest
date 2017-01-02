@@ -1,2 +1,2 @@
 # pytest
-testing repo for services and git practice
+testing repo for services and git practice.
